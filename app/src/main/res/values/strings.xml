@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EG_Android10</string>
+    <string name="name">Anup Kumar</string>
+    <string-array name="states">
+        <item>West Bengal</item>
+        <item>Jharkhand</item>
+        <item>Delhi</item>
+    </string-array>
+</resources>
